@@ -69,9 +69,9 @@ Configure environment variables (database URL, AI API key, email/SMS credentials
 
 | Name | Roll Number |
 |---|---|
-| Preetham S | 20231CSE0272 |
-| Yashwanth K | 20231CSE0275 |
-| Pramod S R | 20231CSE0254 |
+| Preetham S |
+| Yashwanth K | 
+| Pramod S R | 
 
 **Guide:** Ms. Priyanka Gour, Assistant Professor, School of CSE
 **Program Coordinator:** Ms. Delsy Jyothi | **HoD:** Dr. Nagaraja S R
