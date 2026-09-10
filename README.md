@@ -67,7 +67,7 @@ Configure environment variables (database URL, AI API key, email/SMS credentials
 
 ## 👥 Team
 
-| Name | Roll Number |
+| Name |
 |---|---|
 | Preetham S |
 | Yashwanth K | 
